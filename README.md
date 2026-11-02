@@ -1,16 +1,15 @@
 <h1 align="center">Hey, I'm Nytherion 👋</h1>
 <p align="center">
-  ⚔️ 16 y/o AI & ML enthusiast | Focused beast in training<br>
+  ⚔️ 18 y/o AI & ML enthusiast | Focused beast in training<br>
   💻 Pythonist | Problem solver | Discipline over motivation<br>
-  🧠 Student of code, business & the gym grind
+  🧠 Student of code & business
 </p>
 
 ---
 
 ### 🔥 About Me
 - 🧱 Building my coding foundation with Python & Git
-- 📚 Currently reading: *Atomic Habits*, *Psychology of Money*
-- 💪 Gym rat with a developer brain
+- 📚 Currently reading: yea nothing rn 🥀
 - 🛠️ Planning to master AI, automation, and freelancing
 
 ---
@@ -28,7 +27,6 @@
 - 📌 Finish Python core mastery
 - 📌 Build 5+ real-world projects
 - 📌 Learn GitHub inside-out
-- 📌 Start earning before 18
 
 ---
 
